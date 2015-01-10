@@ -28,7 +28,7 @@
 				<Item name="InsertBeforeBaseName" type="text" value=""/>
 				<Item name="NumbericNaming" type="boolean" value="false"/>
 				<Item name="OptimizePDF" type="boolean" value="true"/>
-				<Item name="PresetName" type="text" value="Mobile"/>
+				<Item name="PresetName" type="text" value="Librelio"/>
 				<Item name="RunPDFOptimizer" type="boolean" value="true"/>
 			</Items>
 		</Command>
